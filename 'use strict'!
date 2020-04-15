@@ -1,0 +1,15 @@
+//It's been like a month I've started JavaScript. 
+//Today, I faced with a new expression "USE SCRIPT".
+//The purpose of "use strict" is to indicate that the code should be executed in "strict mode".
+//With strict mode, you can not, for example, use undeclared variables.
+
+//Problem => this expression was not executed in my code.
+//Solution => you have to check if you use chrome, edge, firefox, safari or opera.
+//then, check if they are up to date. 
+//for chrome => 1. Press the three dots on the right side of the browser
+//2. go to setting
+//3. extenstions -> disable all the extension (you can enable them after)
+//4. again on the three dots, go to help -> about chrome
+//5. check for the updates,
+//6. close the chrome and restart it (sometimes, relaunche does not work!)
+//7. then, restart your editor, and there you go, 'USE STRICT' is working!
